@@ -4,7 +4,7 @@ const MembershipPlans = () => {
     const plans = [
         {
             name: "Monthly",
-            price: "₹1,500",
+            price: "₹2,500",
             period: "per month",
             features: [
                 "Access to all equipment",
@@ -16,7 +16,7 @@ const MembershipPlans = () => {
         },
         {
             name: "Quarterly",
-            price: "₹4,000",
+            price: "₹6,000",
             period: "per 3 months",
             features: [
                 "All Monthly features",
